@@ -1,3 +1,3 @@
 # Novo-Restaurante-Test
 1°test-Restaurante Online
-aplicativo web para procura de resturante por genero.
+Sistema Web para procura de Restaurante por Genêro.
